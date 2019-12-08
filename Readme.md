@@ -13,9 +13,9 @@ By Belinda Okumu
 * Bootstrap
 * jQuery
 * JavaScript
-<!-- ## Contributing
+## Contributing
 Pull requests are welcome.
-## Project link
+<!-- ## Project link
 url()
 ## Contacts
 * Tel: +254706313301
