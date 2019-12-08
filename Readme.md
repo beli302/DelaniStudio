@@ -1,5 +1,5 @@
-<!-- # DELANI STUDIO
-## Description
+# DELANI STUDIO
+<!-- ## Description
 Delani studio is a basic website aimed at helping students familiarize with various JQuery and Bootstrap concepts.
 ## Authors information
 By Belinda Okumu
