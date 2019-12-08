@@ -7,13 +7,13 @@ By Belinda Okumu
 * Open my Github account.
 * Git clone my repository.
 * Send a pull request.
-<!-- ## Technology used
+## Technology used
 * HTML
 * CSS
 * Bootstrap
 * jQuery
 * JavaScript
-## Contributing
+<!-- ## Contributing
 Pull requests are welcome.
 ## Project link
 url()
