@@ -15,9 +15,9 @@ By Belinda Okumu
 * JavaScript
 ## Contributing
 Pull requests are welcome.
-<!-- ## Project link
+## Project link
 url()
-## Contacts
+<!-- ## Contacts
 * Tel: +254706313301
 * Email: belindashirkiz@gmail.com
 ## Licence
