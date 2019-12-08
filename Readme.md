@@ -17,8 +17,8 @@ By Belinda Okumu
 Pull requests are welcome.
 ## Project link
 url()
-<!-- ## Contacts
+## Contacts
 * Tel: +254706313301
 * Email: belindashirkiz@gmail.com
-## Licence
+<!-- ## Licence
 Licensed under the MIT license. Copyright (c) 2019 DELANI STUDIO -->
