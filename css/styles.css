@@ -1,0 +1,23 @@
+#home{
+    background: url("../assets/backgrounds/h_img.jpg") center center/cover no-repeat;
+    text-align: center;
+    color: white;
+}
+#about{
+    background-color: white;
+    text-align: center;
+}
+#services{
+    background:url("../assets/backgrounds/s_image.jpg") center center/cover no-repeat;
+    height: 50vh;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+h3{
+    text-align: center;
+}
+#contacts{
+    background:url("../assets/backgrounds/c_image.jpg") center center/cover no-repeat;
+    text-align:center;
+}
