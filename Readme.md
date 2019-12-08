@@ -20,5 +20,5 @@ url()
 ## Contacts
 * Tel: +254706313301
 * Email: belindashirkiz@gmail.com
-<!-- ## Licence
-Licensed under the MIT license. Copyright (c) 2019 DELANI STUDIO -->
+## Licence
+Licensed under the MIT license. Copyright (c) 2019 DELANI STUDIO
