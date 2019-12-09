@@ -17,7 +17,7 @@
 h3{
     text-align: center;
 }
-/* #contacts{
+#contacts{
     background:url("../assets/backgrounds/c_image.jpg") center center/cover no-repeat;
     text-align:center;
 } 
@@ -46,6 +46,6 @@ button{
 .icons{
     text-align: center;
 }
-footer{
+/* footer{
     text-align: center;
 } */
