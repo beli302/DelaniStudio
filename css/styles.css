@@ -21,15 +21,17 @@ h3{
 #contacts{
     background:url("../assets/backgrounds/c_image.jpg") center center/cover no-repeat;
     margin-top: 5%;
+    text-align: center
 } 
-#contacts h3{
+ #contacts h3{
     color: white;
 }
 #contacts  textarea{
     background: none;
     color: white;
 text-align: center;
-}
+
+} 
 #name{
     background: none;
     position: relative;
@@ -40,7 +42,7 @@ text-align: center;
 }
 button{
     margin-top: 20px
-}
+} 
 
 #design,#product,#development{
     display: none;
@@ -63,4 +65,28 @@ footer{
 }
 .button{
     text-align: center;
+}
+
+#top-row, #bottom-row {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+#arrange {
+    width: 60%;
+    margin: auto;
+}
+#text1 ,#text2, #text3, #text4, #text5, #text6, #text7, #text8{
+    display: none;
+    margin:-50% 25%;
+    padding:2vh 2vh;
+  background-color: white;
+  text-align:center;
+  color:blue;
+}
+::placeholder{
+    color:white;
+}
+.row{
+    margin-top: 10px;
 }
