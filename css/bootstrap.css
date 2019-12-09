@@ -63,7 +63,13 @@ body {
   text-align: left;
   background-color: #fff;
 }
-
+.form-group{
+  padding-bottom: 10px;
+  color: white;
+}
+.button:hover{
+  color: #856404;
+}
 [tabindex="-1"]:focus {
   outline: 0 !important;
 }
