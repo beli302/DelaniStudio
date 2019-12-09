@@ -1,4 +1,8 @@
 # DELANI STUDIO
+## Code Grade
+
+[![codebeat badge](https://codebeat.co/badges/2b85c977-c2a6-4d4e-a69b-50e436913b38)](https://codebeat.co/projects/github-com-beli302-delanistudio-master)
+
 ## Description
 Delani studio is a basic website aimed at helping students familiarize with various JQuery and Bootstrap concepts.
 ## Authors information
