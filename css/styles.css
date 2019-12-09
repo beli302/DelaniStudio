@@ -1,4 +1,4 @@
-/* #home{
+ #home{
     background: url("../assets/backgrounds/h_img.jpg") center center/cover no-repeat;
     text-align: center;
     color: white;
@@ -17,7 +17,35 @@
 h3{
     text-align: center;
 }
-#contacts{
+/* #contacts{
     background:url("../assets/backgrounds/c_image.jpg") center center/cover no-repeat;
     text-align:center;
+} 
+#contacts h3{
+    color: white;
+}
+#contacts  textarea{
+    background: none;
+    color: white;
+}
+#name{
+    background: none;
+    position: relative;
+    width: 300px;
+}
+#email{
+    position: relative;
+}
+button{
+    margin-top: 20px
+}
+
+#design,#product,#development{
+    display: none;
+}
+.icons{
+    text-align: center;
+}
+footer{
+    text-align: center;
 } */

@@ -19,9 +19,9 @@
 </div>
     <div id="about">
         <h2>ABOUT US</h2>
-        <p>When you work with us, you are part of a team of committed collaborators.All aspects pf our software development process are intergrated, interactive and agile.</p>
+        <p>When you work with us, you are part of a team of committed collaborators.All aspects pf our software development process are intergrated, interactive <br>and agile.</p>
         <p>Our approach unifies design,development and product management to create exceptional products.</p>
-        <p>We start each project by understanding your business goals,the user's needs and the product requirements then we help translate them into effective and elegant solutions.</p>
+        <p>We start each project by understanding your business goals,the user's needs and the product requirements<br> then we help translate them into effective and elegant solutions.</p>
         
     </div>
     <div id="services"> 
@@ -34,47 +34,83 @@
     <h3>WHAT WE DO</h3>
     </div>
     <div class="row" id="row">
-    <div class="col-md-4 click0">
-        <img class="hide0" src="assets/services_icons/design_icon.png">
+    <div class="col-md-4">
+        <div class="hide0" >
+        <img src="assets/services_icons/design_icon.png" id="des">
     <h4>DESIGN</h4>
-    <p id="show0">Our design practice offers a full range of services including brand strategy, interaction and visual design and user experience testing. Throughout your project, our designers create and implement visual design and workflows, solicit user feedback and work with you to make sure what gets built is what is needed.</p>
 </div>
-<div class="col-md-4 click1">
-    <img class="hide1" src="assets/services_icons/dev_icon.png">
+    <div class="show0">
+    <p id="design">Our design practice offers a full range of services including brand strategy, interaction and visual design and user experience testing. Throughout your project, our designers create and implement visual design and workflows, solicit user feedback and work with you to make sure what gets built is what is needed.</p>
+</div>
+</div>
+<div class="col-md-4">
+    <div class="hide1">
+    <img src="assets/services_icons/dev_icon.png" id="dev">
     <h4>DEVELOPMENT</h4>
-    <p class="show1">All engineers are fluent in the latest enterprise, mobile and web development technologies. They collaborate with your team to write, and improve code on a daily basis, using proven practices such as test-driven development and pair programming.</p>
 </div>
-<div class="col-md-4 click2">
-    <img class="hide2" src="assets/services_icons/product_icon.png">
+    <div class="show1">
+    <p id="development">All engineers are fluent in the latest enterprise, mobile and web development technologies. They collaborate with your team to write, and improve code on a daily basis, using proven practices such as test-driven development and pair programming.</p>
+</div>
+</div>
+<div class="col-md-4">
+    <div class="hide2">
+    <img  src="assets/services_icons/product_icon.png" id="prod">
     <h4>PRODUCT MANAGEMENT</h4>
-    <p class="show2">Planning and development is iterative. Because we are constantly coding and testing, the products we build are always ready to go live. This iterative process allows for changes as business requirements evolve.</p>
+</div>
+    <div class="show2">
+    <p id="product">Planning and development is iterative. Because we are constantly coding and testing, the products we build are always ready to go live. This iterative process allows for changes as business requirements evolve.</p>
+</div>
 </div>
 </div>
 <div class="card">
     <div class="card-body">
     <h3>PORTFOLIO</h3>
-    <img src="assets/portfolio/work4.jpg">
-    <img src="assets/portfolio/work3.jpg">
-    <img src="assets/portfolio/work2.jpg">
-    <img src="assets/portfolio/work8.jpg">
-    <img src="assets/portfolio/work6.jpg">
-    <img src="assets/portfolio/work7.jpg">
-    <img src="assets/portfolio/work5.jpg">
-    <img src="assets/portfolio/work1.jpg">
+    <div class="row">
+        <div id="row1" class="col-md-3">
+                <p id="text1">Black</p><img src="assets/portfolio/work4.jpg" class="portfolio1">
+        </div>
+    <div id="row2" class="col-md-3">
+    <p id="text2">Mighty Ontorio</p><img src="assets/portfolio/work3.jpg" class="porfolio2">
+    
+</div>
+    <div id="row3" class="col-md-3">
+            <p id="text3">Blank</p><img src="assets/portfolio/work2.jpg" class="portfolio3">
+    
+</div>
+    <div id="row4" class="col-md-3">
+            <p id="text4">Giraffe Restaurant</p><img src="assets/portfolio/work8.jpg" class="portfolio4">
+    
+</div>
+    <div id="row5" class="col-md-3">
+            <p id="text5">Form</p><img src="assets/portfolio/work6.jpg" class="portfolio5">
+   
+</div>
+    <div id="row6" class="col-md-3">
+            <p id="text6">Burned</p><img src="assets/portfolio/work7.jpg" class="portfolio6">
+    
+</div>
+    <div id="row7" class="col-md-3">
+            <p id="text7">Servay</p><img src="assets/portfolio/work5.jpg" class="portfolio7">
+    
+</div>
+    <div id="row8" class="col-md-3">
+            <p id="text8">Carrey</p><img src="assets/portfolio/work1.jpg" class="portfolio8">
+    
+</div>
 </div>
 </div>
 <div id="contacts">
 <h3>CONTACT US</h3>
-<form class="form-row">
-        <div class="col-md-6" justify-content-center>
+<form class="form-row" id="formSubmission">
+        <div class="col-md-6" id="name">
             <input type="text" name="Name" placeholder="Name" class="form control" id="nameDetail" width="100%">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6" id="Email">
             <input type="email" name="Email" placeholder="Email" class="form control" width="100%">
         </div>
     </form>
     <br><form class="form-row">
-    <div justify-content-center> 
+    <div> 
     <textarea name="message" id="message" cols="60" rows="10" placeholder="Your message here"></textarea>
     </div>
     </form>
@@ -82,7 +118,7 @@
     <button type="submit" id="btns" class="btn btn-primary">Send</button>
      </form>
 </div>
-<div>
+<div class="icons">
 <img src="assets/social_icons/twitter.png">
 <img src="assets/social_icons/dribble.png">
 <img src="assets/social_icons/facebook.png">
@@ -94,7 +130,7 @@
 <img src="assets/social_icons/flickr.png">
 </div>
 <footer>
-<p>DELANI STUDIO<br> 2019</P>
+<br><p>DELANI STUDIO<br> 2019</P>
 </footer>
 </body>
 </html>
