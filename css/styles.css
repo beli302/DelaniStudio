@@ -20,7 +20,7 @@ h3{
 }
 #contacts{
     background:url("../assets/backgrounds/c_image.jpg") center center/cover no-repeat;
-    text-align:center;
+    margin-top: 5%;
 } 
 #contacts h3{
     color: white;
@@ -28,6 +28,7 @@ h3{
 #contacts  textarea{
     background: none;
     color: white;
+text-align: center;
 }
 #name{
     background: none;
@@ -48,5 +49,18 @@ button{
     text-align: center;
 }
 footer{
+    text-align: center;
+}
+.textarea{
+    text-align: center;
+}
+.contacts{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.button{
     text-align: center;
 }

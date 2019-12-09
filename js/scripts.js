@@ -85,9 +85,12 @@ function() {
 });
 
 });
-$("form#formSubmission").submit(function() {
-    var name = ("#name").value();
-    var email = ("#email").value();
-    var text = ("#message").value();
-    alert("Hello" + name + "We have received your message thank you for reaching out to us!")
-});
+var submission=function(){
+    var email=document.getElementById("email")
+    if (email== "" ) {
+        alert("")
+    }
+        else {
+            alert(' Your message has been received. Thank you for contacting us' )
+        }
+    }
